@@ -10,13 +10,13 @@
 # }
 
 sec_key = (
-    ""  # Can be anything. Has to match with "key" in your TradingView alert message
+    "Viktor123"  # Can be anything. Has to match with "key" in your TradingView alert message
 )
 
 # Telegram Settings
-send_telegram_alerts = False
-tg_token = ""  # Bot token. Get it from @Botfather
-channel = 0  # Channel ID (ex. -1001487568087)
+send_telegram_alerts = True
+tg_token = "9054614202:AAF1u6p0Ww1TgyGJ3eHa_cvVJpptZ-Tarcc"  # Bot token. Get it from @Botfather
+channel = 939501046 # Channel(ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
